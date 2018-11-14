@@ -1,6 +1,6 @@
 #!/bin/ash
 
-set -ex
+set -e
 
 # generate host keys if not present
 ssh-keygen -A
