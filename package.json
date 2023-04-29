@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "do-wrapper": "^3.15.1",
+    "do-wrapper": "^3.25.4",
     "fs-extra": "^7.0.1"
   }
 }
